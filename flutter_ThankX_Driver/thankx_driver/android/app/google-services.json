@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944648524536",
+    "firebase_url": "https://thankx-driver.firebaseio.com",
+    "project_id": "thankx-driver",
+    "storage_bucket": "thankx-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944648524536:android:ace53fb6b0f1e14c82a10d",
+        "android_client_info": {
+          "package_name": "com.app.thankxdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944648524536-fujr5dqd9c1v9jcjql5trtgn8lbrf0fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqrBbb8wVzBopi3b1DdbXRGG2FsC08po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944648524536-fujr5dqd9c1v9jcjql5trtgn8lbrf0fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

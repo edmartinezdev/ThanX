@@ -1,0 +1,4 @@
+storeFile file("certificate/key.jks")
+storePassword "123456"
+keyAlias "thankx"
+keyPassword "123456"

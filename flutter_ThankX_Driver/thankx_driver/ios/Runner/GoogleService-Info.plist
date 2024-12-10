@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>944648524536-tvntnh21oajb180bnir4sdva7tn458st.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.944648524536-tvntnh21oajb180bnir4sdva7tn458st</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6JjRTyguwNqR0Mz5_OeKDCody0VikgD0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>944648524536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thankX.driverApp</string>
+	<key>PROJECT_ID</key>
+	<string>thankx-driver</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thankx-driver.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:944648524536:ios:163bdd00d32c1f8182a10d</string>
+	<key>DATABASE_URL</key>
+	<string>https://thankx-driver.firebaseio.com</string>
+</dict>
+</plist>
